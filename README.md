@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MilanMuzykantov
+- 👀 I’m interested in problem solving and self-educating
+- 🌱 I’m currently learning python from a book written by John Paul Muller
+- 💞️ I’m looking to collaborate on some project
+- 📫 You can reach me in twitter -- @MilanMuzykantov
